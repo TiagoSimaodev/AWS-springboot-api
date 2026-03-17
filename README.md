@@ -32,6 +32,7 @@ A aplicação segue uma arquitetura baseada em cloud:
 
 
 
+link da api em produção: http://front-produto-demon.s3-website-us-east-1.amazonaws.com/
 
 ---
 
