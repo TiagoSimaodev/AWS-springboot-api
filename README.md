@@ -23,8 +23,7 @@ A aplicação segue uma arquitetura baseada em cloud:
 * Back-end: Spring Boot rodando no Elastic Beanstalk
 * Banco de dados: MySQL no AWS RDS
 
-![Arquitetura](![produto](https://github.com/user-attachments/assets/1285efb0-ca0d-4ff4-9d1c-f2bb2fe1b260)
-)
+
 
 📷 Demonstração
 
@@ -75,7 +74,6 @@ A aplicação segue uma arquitetura baseada em cloud:
 ```http
 GET /produtos
 POST /produtos
-PUT /produtos/{id}
 DELETE /produtos/{id}
 ```
 
@@ -144,10 +142,4 @@ A aplicação está preparada para deploy na AWS utilizando:
 🔗 LinkedIn: https://www.linkedin.com/in/tiagosimaodev/
 🔗 GitHub: https://github.com/TiagoSimaodev
 
----
 
-## ⭐ Considerações
-
-Este projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento backend com Spring Boot e integração com serviços da AWS, demonstrando uma arquitetura moderna e escalável.
-
----
