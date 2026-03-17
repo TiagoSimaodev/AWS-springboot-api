@@ -1,5 +1,11 @@
 # 🚀 AWS Spring Boot API
 
+
+
+![produto](https://github.com/user-attachments/assets/6d71fd92-f836-4a1a-98d1-4b68aea39e9e)
+
+
+
 ## 📖 Sobre o projeto
 
 Esta é uma API REST desenvolvida com **Java + Spring Boot**, com o objetivo de gerenciar produtos através de operações CRUD (Create, Read, Delete).
