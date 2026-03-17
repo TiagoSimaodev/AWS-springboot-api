@@ -23,7 +23,16 @@ A aplicação segue uma arquitetura baseada em cloud:
 * Back-end: Spring Boot rodando no Elastic Beanstalk
 * Banco de dados: MySQL no AWS RDS
 
-![Arquitetura](./docs/arquitetura.png)
+![Arquitetura](![produto](https://github.com/user-attachments/assets/1285efb0-ca0d-4ff4-9d1c-f2bb2fe1b260)
+)
+
+📷 Demonstração
+
+![api](https://github.com/user-attachments/assets/4998e8d2-a823-424d-859b-b9dc03fc7282)
+
+
+
+
 
 ---
 
